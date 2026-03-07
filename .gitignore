@@ -1,0 +1,17 @@
+data/
+input/
+output/
+_archive/
+__pycache__/
+*.pyc
+*.pkl
+*.npy
+*.bin
+*.pt
+*.pth
+*.onnx
+*.faiss
+pipeline/checkpoints/
+pipeline/output/
+pipeline/__pycache__/
+pipeline/gpl_output.log
